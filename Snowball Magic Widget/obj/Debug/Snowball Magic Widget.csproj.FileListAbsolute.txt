@@ -1,0 +1,11 @@
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\bin\Debug\Snowball Magic Widget.exe.config
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\bin\Debug\Snowball Magic Widget.exe
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\bin\Debug\Snowball Magic Widget.pdb
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball_Magic_Widget.Form1.resources
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball_Magic_Widget.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.exe
+C:\Users\Администратор\source\repos\Snowball Magic Widget\Snowball Magic Widget\obj\Debug\Snowball Magic Widget.pdb
